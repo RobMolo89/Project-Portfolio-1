@@ -9,9 +9,7 @@
 body {
     font-family: poppins, sans-serif;
     font-weight: 300;
-    background-color: rgb(216, 216, 216);
     color: rgb(187, 35, 35);
-    
 }
 
 /* headings & logo */
@@ -61,4 +59,16 @@ h1, h2 {
     background-color: rgb(0, 0, 0);
     border-radius: 50%;
 }
+
+
+/* sections */
+
+#intro {
+
+}
+
+#ribcage {
+    height: 600px;
+    width: 75%;
+    background: url('../css/images/ribcage\ 2.jpg') no-repeat left center;
 }
