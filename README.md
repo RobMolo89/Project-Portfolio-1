@@ -10,9 +10,9 @@ A cure for sitting is a project looking to educate software developers on ways t
 
 + The site landing page will be broken into three main sections directed towards educating and capturing the readers interest towards physical health when working in a seated position for long periods of time. 
 
-  + The first section will be an intro paragraph overviewing the effects shallow breathing and focused vision has on the para-sympathetic nervous system and it's connection to muscular stiffness with an external link to a supporting article.
+  + The first section will be an intro paragraph focused on grabbing the users attention through shared experience and empathy. It then goes on to a myth busting fact to get the user more interested and add value to the authority of the website and its contents. This is backed even further by an external link to an article focusing on a breathing exercise to help clarify the previous points made in the intro. It also creates a structure for the following sections.
   + The second sections will be a practical way of applying the information provided through a youtube video of an exercise designed for those in a seated position suffering from low back or upper back pain with a supporting paragraph of text.
-  + The third and final section will be an interest peaking *myth-busting* fact about posture and an accompanying thumbnail image hyperlinked to an instagram video to help explain the topic even more.
+  + The third and final section will include a link to an instagram reel furhter highlighting th benefits of movement for physical pain and an outro leading into the footer elements.
   + Each section will be clearly layed out and given dominating areas of left, center and right respectively with an anatomical background image in faded red sketch style to convay a clinical tone without being too sterile.
 <!-- link to sections tab here -->
 
@@ -79,4 +79,6 @@ A cure for sitting is a project looking to educate software developers on ways t
   + This page will be used to upload and display programs aimed at curing specific issues of pain arrising from sitting for long periods of times such as low back pain, head-aches, upper back pain, neck pain, shoulder pain and carpal tunnel syndrome.
   + This is where a lot of users will get a lot value as it is a more practical approach and they will get short term relief from their issue.
 
-
++ **Workshop & Webinars**
+  + This external link will bring the user to a page dedicated to inperson or online workshops. Giving them times, dates and locations with prices for each one.
+  + This is the main selling point of the whole website and where users will experience the most value by attending.

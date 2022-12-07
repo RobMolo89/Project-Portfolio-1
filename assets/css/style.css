@@ -68,7 +68,10 @@ h1, h2 {
 }
 
 #ribcage {
+    display: block;
+    position: relative;
+    float: right;
     height: 600px;
     width: 75%;
-    background: url('../css/images/ribcage\ 2.jpg') no-repeat left center;
+    background: url('../images/rib-cage-diagram-vintage-anatomy-print-2-vintage-anatomy-prints-transparent.png') no-repeat left center;
 }
