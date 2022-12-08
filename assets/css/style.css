@@ -25,6 +25,9 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 250%;
+    border: 1px solid-black;
+    background-color: rgb(160, 158, 158, .2);
+    position: fixed;
 }
 
 /* navigation links*/
@@ -33,6 +36,10 @@ h1, h2 {
     font-size: 110%;
     letter-spacing: 4px;
     font-style: oblique;
+    float: right;
+    position: relative;
+    border: 1px solid-black;
+    background-color: rgb(160, 158, 158, .2);
 }
 
 #menu, #logo {
@@ -40,7 +47,7 @@ h1, h2 {
 }
 
 #menu li {
-    float: right;
+    display: inline;
     list-style-type: none;
     margin-right: 30px;
 }
@@ -63,11 +70,6 @@ h1, h2 {
 
 /* sections */
 
-
-#intro {
-
-}
-
 #ribcage {
     display: block;
     position: relative;
@@ -75,4 +77,8 @@ h1, h2 {
     height: 600px;
     width: 75%;
     background: url('../images/rib-cage-diagram-vintage-anatomy-print-2-vintage-anatomy-prints-transparent.png') no-repeat left center;
+}
+
+#box {
+    
 }
