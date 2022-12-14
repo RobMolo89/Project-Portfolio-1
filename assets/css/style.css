@@ -67,9 +67,6 @@ header a {
     font-weight: 500;
     letter-spacing: 2.5px;
     padding-right: 1.5em;
-
-    position: sticky;
-    top: 0;
 }
 
 #menu,
@@ -109,6 +106,9 @@ header a {
 
 #item-d {
     grid-area: nav-b;
+    position: sticky;
+    top: 0;
+    justify-self: end;
 }
 
 #item-e {
@@ -138,16 +138,8 @@ header a {
     grid-area: outro;
 }
 
+/* footer*/
+
 #item-l {
     grid-area: footer;
 }
-/*
-    "header nav-main" 
-    "intro intro"
-    "nav-b nav-b"
-    "main1 box"
-    "main2 youtube"
-    "main3 insta"
-    "outro outro"
-    "footer footer";
-    */
