@@ -59,7 +59,9 @@ header a {
 
 #item-b {
     grid-area: nav-main;
-    justify-self: end;
+    background-color: rgba(245, 16, 16, 0.315);
+    
+    
 }
 
 #menu {
@@ -67,6 +69,7 @@ header a {
     font-weight: 500;
     letter-spacing: 2.5px;
     padding-right: 1.5em;
+    text-align: end;
 }
 
 #menu,
@@ -102,6 +105,19 @@ header a {
 
 #item-c {
     grid-area: intro;
+    height: 300px;
+    text-align: center;
+    padding: 150px;
+    
+}
+
+#item-c h2 {
+    margin-bottom: 30px;
+}
+
+#item-c p {
+    line-height: 1.6em;
+    word-spacing: 4px;
 }
 
 #item-d {
@@ -142,4 +158,10 @@ header a {
 
 #item-l {
     grid-area: footer;
+}
+
+/* Main text sections */
+
+#ribcage {
+    background-image: ;
 }
